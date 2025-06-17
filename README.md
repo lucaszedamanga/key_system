@@ -13,7 +13,6 @@ end)
  if success then 
 
 oai = true
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lucaszedamanga/jujutsu-chronicles-for-pc-users/refs/heads/main/README.md"))()
 
 hikwmwjssjshahauakwkesjshshxbhdsiwkwjshdbdhsiwowm:Destroy() 
  end end);lwmwjsisisk=function() jwowksjsjsis=true 
